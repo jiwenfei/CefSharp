@@ -80,12 +80,11 @@
   <ItemGroup>
     <Compile Include="CefSettings.cs" />
     <Compile Include="Experimental\ChromiumWebBrowserWithTouchSupport.cs" />
-    <Compile Include="Experimental\ChromiumWebBrowserWithTouchSupport.cs" />
     <Compile Include="Internals\DragOperationMaskExtensions.cs" />
-    <Compile Include="Internals\IMEHandler.cs" />
+    <Compile Include="Internals\ImeHandler.cs" />
     <Compile Include="Internals\MonitorInfo.cs" />
     <Compile Include="Internals\MonitorInfoEx.cs" />
-    <Compile Include="Internals\NativeIME.cs" />
+    <Compile Include="Internals\NativeIme.cs" />
     <Compile Include="Internals\RectStruct.cs" />
     <Compile Include="Internals\WpfIMEKeyboardHandler.cs" />
     <Compile Include="Internals\WpfKeyboardHandler.cs" />
